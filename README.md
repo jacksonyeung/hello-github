@@ -1,4 +1,4 @@
-# helloGithub
+# Hello Github
 (my own first remote repository)
 
 ```
