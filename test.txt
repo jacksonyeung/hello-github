@@ -1,1 +1,3 @@
 hello github, this is my first commit and push.
+
+- firstly updated from home
