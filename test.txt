@@ -6,4 +6,5 @@ hello github, this is my first commit and push.
 
 >>> office
 - firstly updated at office
-- updated without binding SSH keys
+- updated without binding SSH keys (commit rejected)
+- updated after binding SSH keys
