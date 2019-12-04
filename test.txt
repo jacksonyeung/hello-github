@@ -1,4 +1,8 @@
 hello github, this is my first commit and push.
 
+>>> home
 - firstly updated from home
 - secondly updated after generated SSH key and addded to Github
+
+>>> office
+- firstly updated at office
