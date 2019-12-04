@@ -6,6 +6,7 @@ hello github, this is my first commit and push.
 
 >>> office
 - firstly updated at office
-- updated without binding SSH keys (commit rejected)
-- updated after binding SSH keys (still can not commit, remind to configure global username and email address)
+- updated without binding any SSH key (commit rejected)
+- updated after binding a SSH key (still can not commit, remind to configure global username and email address)
 - updated after configured the global username and email address
+- updated after removing the SSH key in Github
