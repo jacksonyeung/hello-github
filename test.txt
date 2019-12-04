@@ -9,4 +9,5 @@ hello github, this is my first commit and push.
 - updated without binding any SSH key (commit rejected)
 - updated after binding a SSH key (still can not commit, remind to configure global username and email address)
 - updated after configured the global username and email address
-- updated after removing the SSH key in Github
+- updated after removing the SSH key in Github (success?)
+- update again
